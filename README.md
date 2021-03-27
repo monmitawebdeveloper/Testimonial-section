@@ -14,7 +14,7 @@ Will be maintaining this as I have time, thanks for your understanding! 🙏🏽
 
 ### HTML
 
-![HTML screenshot](https://raw.githubusercontent.com/thecodercoder/codercoder-dark-theme/main/codercoder-dark-html.PNG)
+![HTML screenshot](https://user-images.githubusercontent.com/70125754/112729761-faf1a800-8f57-11eb-9327-3db9a2f67254.png)
 
 ### Sass/SCSS
 
